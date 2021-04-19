@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--修改id-->
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "cn.yogeek.flappybird"
+    versionCode = "10"
+    version     = "1.0.0" >
+ 
+<!--APP的名称-->
+  <name>Guard the Castle</name>
+<!--APP的描述-->
+  <description>
+      A Tower Defense Game of protecting the castle from the attacking of monsters.
+  </description>
+<!--APP的作者-->
+  <author href="https://edu.yogeek.cn" email="gracegracexiao@gmail.com">
+      Tianjiao(Grace) Xiao & Sabrina Li
+  </author>
+<!--APP的图片-->
+  <icon src='ico.png' />
+ 
+</widget>
